@@ -4,5 +4,7 @@ body{
 
 footer{
 background-color: black;
-color: aliceblue;
+color: aliceblue
+position: fixed;
+botton: 0;
 }
